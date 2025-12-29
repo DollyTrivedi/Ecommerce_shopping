@@ -1,6 +1,4 @@
-# ECOMMERCE
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
+
 ## screenshots
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
@@ -87,6 +85,7 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Contributor
 - [Raxa](https://github.com/raxa217)
+
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
